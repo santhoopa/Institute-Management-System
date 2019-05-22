@@ -1,0 +1,28 @@
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\bin\Debug\Institute Management System.exe.config
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\bin\Debug\Institute Management System.exe
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\bin\Debug\Institute Management System.pdb
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmLogin.resources
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.Properties.Resources.resources
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csproj.GenerateResource.Cache
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csproj.CoreCompileInputs.cache
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute Management System.exe
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute Management System.pdb
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmMain.resources
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmStudent.resources
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csprojResolveAssemblyReference.cache
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmClass.resources
+C:\Users\MYPC\source\repos\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmLecturer.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\bin\Debug\Institute Management System.exe.config
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\bin\Debug\Institute Management System.exe
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\bin\Debug\Institute Management System.pdb
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csprojAssemblyReference.cache
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmClass.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmLecturer.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmLogin.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmMain.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.Properties.Resources.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute_Management_System.frmStudent.resources
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csproj.GenerateResource.cache
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute Management System.csproj.CoreCompileInputs.cache
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute Management System.exe
+E:\Academics\Level 2 Semester 1\Interactive Application Development\Institute Management System\Institute Management System\obj\Debug\Institute Management System.pdb
